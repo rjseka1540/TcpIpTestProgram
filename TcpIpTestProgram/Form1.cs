@@ -23,11 +23,11 @@ namespace TcpIpTestProgram
 
             if (bt.Text == "button1")
             {
-                MessageBox.Show("Button 1");
+                MessageBox.Show("Click Button 1");
             }
             else
             {
-                MessageBox.Show("Button 2");
+                MessageBox.Show("Click Button 2");
             }
 
         }
